@@ -1,4 +1,3 @@
-
   function submitHandler(event) {
     event.preventDefault();
     var container = event.target.parentNode;
